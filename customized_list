@@ -1,0 +1,3 @@
+Cam1_gain10 ./0_data/Cam1/gain10.npy ./0_data/Cam1/gain10.npy
+Cam2_gain15 ./0_data/Cam2/gain15.npy ./0_data/Cam2/gain15.npy
+Outdoor ./0_data/Outdoor/gain10_15fps_2.npy ./0_data/Outdoor/gain10_15fps_2.npy
